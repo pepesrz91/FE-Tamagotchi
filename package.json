@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pepesrz91/FE-Tamagochi/issues"
   },
-  "homepage": "https://github.com/pepesrz91/FE-Tamagochi#readme"
+  "homepage": "https://github.com/pepesrz91/FE-Tamagochi#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
